@@ -1,0 +1,1 @@
+This is just a draft example about using libstreaming lib into google glass, just for testing purposes, and done in two hours due to the insistence of Mandy :-) so, you'll find there comments, bugs, etc... You are warned about it.
